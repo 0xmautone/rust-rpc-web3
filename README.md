@@ -3,19 +3,11 @@
 Ethereum JSON-RPC multi-transport client.
 Rust implementation of Web3.js library.
 
-[![Build Status][ci-image]][ci-url] [![Crates.io](https://img.shields.io/crates/v/web3)](https://crates.io/crates/web3)
-
-[ci-image]: https://github.com/tomusdrw/rust-web3/workflows/Compilation%20and%20Testing%20Suite/badge.svg
-[ci-url]: https://github.com/tomusdrw/rust-web3/actions?query=workflow%3A%22Compilation+and+Testing+Suite%22
-[docs-rs-badge]: https://docs.rs/web3/badge.svg
-[docs-rs-url]: https://docs.rs/web3
-
 Documentation: [crates.io][docs-rs-url]
 
 ## Status
 
 Note this package is **barely maintained** and I am looking for an active maintainer (see #664).
-If you are starting a new project, I'd recommend choosing https://github.com/gakonst/ethers-rs instead.
 
 ## Usage
 
